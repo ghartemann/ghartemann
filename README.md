@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi! This is my GitHub profile.
 
-<!--
-**ghartemann/ghartemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Guillaume and I've been a web developer for a little bit less than a year now. I've learned PHP, Symfony and JavaScript at Wild Code School. Since then, I've been self-studying things like Vue.js.
 
-Here are some ideas to get you started:
+## 🖼 [There's a link to my portfolio.](https://ghartemann.fr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on multiple projects at once:
+- [Plex Finder](https://github.com/ghartemann/plex-finder): a Tinder-like experience where you and your SO/friend/roommate/whatever swipe and match on movies you're gonna watch tonight.
+- [Clic & Eat](https://github.com/ghartemann/clic-and-eat): a recipe database, grocery list creator and restaurants guide I'm co-developing with a UX/UI designer.
+- [NK ULTRA's Sh*tty Synth 2000](https://github.com/ghartemann/checkpoint-4-shitty-synth-2000): a working JavaScript synthesizer! Next step: MIDI integration. It's already been deployed [here](https://shitty-synth.ghartemann.fr/).
+- CLAF-Outil: Classification Légale des Armes Françaises - Outil is a tool I'm working on for a friend. It's not public yet for privacy reasons.
+
+### 🏷 Find out about all my GitHub repos in organized lists:
+- [🧑🏻‍💻 Solo projects](https://github.com/stars/ghartemann/lists/solo-projects)
+- [📕 Ressources](https://github.com/stars/ghartemann/lists/ressources)
+- [🔥 WCS - Hackathons](https://github.com/stars/ghartemann/lists/wcs-hackathons)
+- [👨‍👩‍👦‍👦 WCS - Group projects](https://github.com/stars/ghartemann/lists/wcs-group-projects)
