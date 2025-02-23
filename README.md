@@ -1,6 +1,7 @@
 ### Hi! This is my GitHub profile.
 
-I'm Guillaume and I've been a web developer for almost three (!) years now. My main stack is Vue.js, Symfony and Postgresql. I'm also learning Svelte and Python.
+I'm Guillaume and I've been a web developer for three (!) years. My main stack is Vue.js, Symfony and Postgresql.
+I live in Lyon, France and am moving to Montréal, Canada in a few months!
 
 ## 🖼 [There's a link to my portfolio.](https://ghartemann.fr)
 
@@ -14,5 +15,4 @@ I'm Guillaume and I've been a web developer for almost three (!) years now. My m
 ### 🏷 Find out about all my GitHub repos in organized lists:
 - [🧑🏻‍💻 Solo projects](https://github.com/stars/ghartemann/lists/solo-projects)
 - [📕 Ressources](https://github.com/stars/ghartemann/lists/ressources)
-- [🔥 WCS - Hackathons](https://github.com/stars/ghartemann/lists/wcs-hackathons)
-- [👨‍👩‍👦‍👦 WCS - Group projects](https://github.com/stars/ghartemann/lists/wcs-group-projects)
+- and old, deprecated lists you shouldn't look into
