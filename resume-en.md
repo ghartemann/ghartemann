@@ -1,10 +1,10 @@
 # Guillaume HARTEMANN-PIOLLET
 
----
 #### Montréal, QC, Canada
-g.hartemann@gmail.com | +33 6 68 44 89 36  
-ghartemann.fr | github.com/ghartemann | linkedin.com/in/ghartemann
+g.hartemann@gmail.com  |  +33 6 68 44 89 36  
+ghartemann.fr  |  github.com/ghartemann  |  linkedin.com/in/ghartemann
 
+---
 Fullstack web developer with 3 years of experience in **PHP Symfony** and **Vue.js**, proficient in integration and back-end development.
 Skilled in database management with PostgreSQL and daily use of tools like Docker, Kubernetes, Git, and REST APIs.
 Capable of designing high-performance and maintainable applications, combining rigor and attention to detail.
@@ -59,11 +59,20 @@ Capable of designing high-performance and maintainable applications, combining r
 ## Personal Projects
 
 ---
-- ghartemann.fr: personal website and portfolio – [ghartemann.fr](https://ghartemann.fr)
-- TrickleDown.js (2025): web application simulating purchasing power to highlight income inequalities – [trickledown.ghartemann.fr](https://trickledown.ghartemann.fr)
-- Banana Survivors (2025, WIP): web game similar to Vampire Survivors, developed in JS (Phaser + Vue.js framework) – [ghartemann.fr/portfolio/banana-survivors](https://ghartemann.fr/portfolio/banana-survivors)
-- Banana Clicker (2022): web game similar to Cookie Clicker, developed in JS (no framework) – [bananaclicker.ghartemann.fr](https://bananaclicker.ghartemann.fr)
-- SymVue: ready-to-use Vue.js/Symfony/Tailwind boilerplate for quick project creation – [symvue.ghartemann.fr](https://symvue.ghartemann.fr)
+>##### ghartemann.fr  |  [ghartemann.fr](https://ghartemann.fr)
+>Personal website and portfolio
+
+>##### TrickleDown.js (2025) | [trickledown.ghartemann.fr](https://trickledown.ghartemann.fr)
+>Web application simulating purchasing power to highlight income inequalities
+
+>##### Banana Survivors (2025, WIP) | [ghartemann.fr/portfolio/banana-survivors](https://ghartemann.fr/portfolio/banana-survivors)
+>Web game similar to Vampire Survivors, developed in JS (Phaser + Vue.js framework)
+
+>##### Banana Clicker (2022) | [bananaclicker.ghartemann.fr](https://bananaclicker.ghartemann.fr)
+>Web game similar to Cookie Clicker, developed in JS (no framework)
+
+>##### SymVue | [symvue.ghartemann.fr](https://symvue.ghartemann.fr)
+>Ready-to-use Vue.js/Symfony/Tailwind boilerplate for quick project creation
 
 
 ## Languages

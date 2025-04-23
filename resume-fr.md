@@ -1,10 +1,10 @@
 # Guillaume HARTEMANN-PIOLLET
 
----
 ### Montréal, QC, Canada
-g.hartemann@gmail.com | +33 6 68 44 89 36  
-ghartemann.fr | github.com/ghartemann | linkedin.com/in/ghartemann
+g.hartemann@gmail.com  |  +33 6 68 44 89 36  
+ghartemann.fr  |  github.com/ghartemann  |  linkedin.com/in/ghartemann
 
+---
 Développeur web fullstack avec 3 années d'expérience en **PHP Symfony** et **Vue.js**, à l'aise avec l'intégration et le développement back-end.  
 Maîtrise des bases de données avec PostgreSQL, et usage quotidien d'outils comme Docker, Kubernetes, Git et les API REST.
 Capable de concevoir des applications performantes et maintenables, alliant rigueur et souci du détail.
@@ -59,11 +59,20 @@ Capable de concevoir des applications performantes et maintenables, alliant rigu
 ## Projets personnels
 
 ---
-- ghartemann.fr : site personnel et portfolio – [ghartemann.fr](https://ghartemann.fr)
-- TrickleDown.js (2025) : application web de simulation de pouvoir d'achat visant à mettre en avant les inégalités de revenus – [trickledown.ghartemann.fr](https://trickledown.ghartemann.fr)
-- Banana Survivors (2025, WIP) : jeu web de type Vampire Survivors, développé en JS (framework Phaser + Vue.js) – [ghartemann.fr/portfolio/banana-survivors](https://ghartemann.fr/portfolio/banana-survivors)
-- Banana Clicker (2022) : jeu web de type Cookie Clicker, développé en JS (sans framework) – [bananaclicker.ghartemann.fr](https://bananaclicker.ghartemann.fr)
-- SymVue : Boilerplate Vue.js/Symfony/Tailwind prêt à l'emploi pour créer des projets rapidement – [symvue.ghartemann.fr](https://symvue.ghartemann.fr)
+>##### ghartemann.fr  |  [ghartemann.fr](https://ghartemann.fr)
+>Site personnel et portfolio
+
+>##### TrickleDown.js (2025) | [trickledown.ghartemann.fr](https://trickledown.ghartemann.fr)
+>Application web de simulation de pouvoir d'achat visant à mettre en avant les inégalités de revenus
+
+>##### Banana Survivors (2025, WIP) | [ghartemann.fr/portfolio/banana-survivors](https://ghartemann.fr/portfolio/banana-survivors)
+>Jeu web de type Vampire Survivors, développé en JS (framework Phaser + Vue.js)
+
+>##### Banana Clicker (2022) | [bananaclicker.ghartemann.fr](https://bananaclicker.ghartemann.fr)
+>Jeu web de type Cookie Clicker, développé en JS (sans framework)
+
+>##### SymVue | [symvue.ghartemann.fr](https://symvue.ghartemann.fr)
+>Boilerplate Vue.js/Symfony/Tailwind prêt à l'emploi pour créer des projets rapidement
 
 
 ## Langues
