@@ -1,7 +1,7 @@
 # Guillaume HARTEMANN-PIOLLET
 
 #### Montréal, QC, Canada
-g.hartemann@gmail.com  |  +33 6 68 44 89 36  
+g.hartemann@gmail.com  |  +1 (263) 384 2108  |  +33 6 68 44 89 36  
 ghartemann.fr  |  github.com/ghartemann  |  linkedin.com/in/ghartemann
 
 ---
@@ -13,10 +13,10 @@ Capable of designing high-performance and maintainable applications, combining r
 ## Technical Skills
 
 ---
-**Languages:** PHP, JavaScript, TypeScript, Python
-**Frameworks:** Symfony, Laravel, Vue.js, Svelte, Phaser
-**Databases:** PostgreSQL, MySQL
-**Tools:** Docker, Kubernetes, Git, Azure, CI/CD, Linux, Jetbrains IDE  
+**Languages:** PHP, JavaScript, TypeScript, Python  
+**Frameworks:** Symfony, Laravel, Vue.js, Node.js, Svelte, Phaser  
+**Databases:** PostgreSQL, MySQL, MariaDB  
+**Tools:** Docker, Kubernetes, Git, Azure, CI/CD, Linux, Jetbrains suite  
 **Methodologies:** Agile, Scrum
 
 

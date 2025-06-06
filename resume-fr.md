@@ -1,7 +1,7 @@
 # Guillaume HARTEMANN-PIOLLET
 
 ### Montréal, QC, Canada
-g.hartemann@gmail.com  |  +33 6 68 44 89 36  
+g.hartemann@gmail.com  |  +1 (263) 384 2108  |  +33 6 68 44 89 36  
 ghartemann.fr  |  github.com/ghartemann  |  linkedin.com/in/ghartemann
 
 ---
@@ -14,9 +14,9 @@ Capable de concevoir des applications performantes et maintenables, alliant rigu
 
 ---
 **Langages :** PHP, JavaScript, TypeScript, Python  
-**Frameworks :** Symfony, Laravel, Vue.js, Svelte, Phaser  
-**Bases de données :** PostgreSQL, MySQL  
-**Outils :** Docker, Kubernetes, Git, Azure, CI/CD, Linux, IDE Jetbrains  
+**Frameworks :** Symfony, Laravel, Vue.js, Node.js, Svelte, Phaser  
+**Bases de données :** PostgreSQL, MySQL, MariaDB  
+**Outils :** Docker, Kubernetes, Git, Azure, CI/CD, Linux, suite Jetbrains  
 **Méthodologies :** Agile, Scrum
 
 
@@ -27,24 +27,25 @@ Capable de concevoir des applications performantes et maintenables, alliant rigu
 - Responsable de 6 applications, gestion d'une sous-équipe de 3 développeurs.
 - Développement : prise de besoin, gestion de planning et développement d'évolutions.
 - Maintenance : support technique et accompagnement des utilisateurs.
-- Optimisation des performances et refonte de certaines applications.
+- Refontes d'applications, optimisation de performances.
 - Mise en place de bonnes pratiques de développement (tests, CI/CD, documentation).
+- Tâches du poste précédent (ci-dessous).
 
 >###### Projets principaux
->- Espace Client Valority (refonte) : refonte d'une application de 50k utilisateurs, création d'une messagerie (API et connexion à 5 autres applications du groupe), création d'un backoffice.
->- Sign : application de signature électronique pour tous les contrats du groupe Valority (4k signatures par an).
+>- **Espace Client Valority (refonte)** : refonte d'une application de 50k utilisateurs, création d'une messagerie (API et connexion à 5 autres applications du groupe), création d'un backoffice.
+>- **Sign** : application de signature électronique pour tous les contrats du groupe Valority (4k signatures par an).
 >- Projets ci-dessous.
 
 ##### 2022-2024  |  Développeur – Valority – Lyon, France
 - Développement et maintenance d’applications web en PHP Symfony / Vue.js / PostgreSQL.
-- Implémentation de nouvelles fonctionnalités en collaboration avec l'équipe Webmarketing et les divers métiers du groupe.
-- Optimisation des performances et sécurité des applications.
+- Implémentation de nouvelles fonctionnalités en collaboration avec la Product Owner, l'équipe Webmarketing et les divers métiers du groupe.
+- Optimisation des performances et de sécurité des applications.
 - Participation aux réunions Agile et coordination avec les équipes de développement.
 
 >###### Projets principaux
->- Maslow.immo : application d'investissement locatif en ligne avec tunnel de vente et espace client, développement d'un back office (gestion des dossiers clients, dashboard statistiques).
->- Espace Client Valority (legacy) : maintenance d'une application de 50k utilisateurs
->- E-Tromby : refonte de l'application trombinoscope interne au groupe. Implémentation de l'authentification Azure.
+>- **Maslow.immo** : application d'investissement locatif en ligne avec tunnel de vente et espace client, développement d'un back office (gestion des dossiers clients, dashboard statistiques).
+>- **Espace Client Valority (legacy)** : support et maintenance d'une application de 50k utilisateurs.
+>- **E-Tromby** : refonte de l'application trombinoscope interne au groupe, implémentation de l'authentification Azure.
 
 ##### 2017-2021  |  Chargé de Maîtrise d'Œuvre Urbaine et Sociale – Eohs – Lyon, France
 
@@ -63,16 +64,16 @@ Capable de concevoir des applications performantes et maintenables, alliant rigu
 >Site personnel et portfolio
 
 >##### TrickleDown.js (2025) | [trickledown.ghartemann.fr](https://trickledown.ghartemann.fr)
->Application web de simulation de pouvoir d'achat visant à mettre en avant les inégalités de revenus
+>Puissant simulateur de pouvoir d'achat visant à mettre en avant les inégalités de revenus.
 
 >##### Banana Survivors (2025, WIP) | [ghartemann.fr/portfolio/banana-survivors](https://ghartemann.fr/portfolio/banana-survivors)
->Jeu web de type Vampire Survivors, développé en JS (framework Phaser + Vue.js)
+>Jeu web de type Vampire Survivors, développé en JS (framework Phaser + Vue.js).
 
 >##### Banana Clicker (2022) | [bananaclicker.ghartemann.fr](https://bananaclicker.ghartemann.fr)
->Jeu web de type Cookie Clicker, développé en JS (sans framework)
+>Jeu web de type Cookie Clicker, développé en JS (sans framework).
 
 >##### SymVue | [symvue.ghartemann.fr](https://symvue.ghartemann.fr)
->Boilerplate Vue.js/Symfony/Tailwind prêt à l'emploi pour créer des projets rapidement
+>Boilerplate Vue.js/Symfony/Tailwind prêt à l'emploi pour créer des projets rapidement.
 
 
 ## Langues
@@ -87,5 +88,5 @@ Capable de concevoir des applications performantes et maintenables, alliant rigu
 ---
 - Jeu vidéo — pratique et développement
 - Synthétiseurs, composition musicale
-- Vélo, randonnée
+- Vélo (Tour de l'Île 2025 !!!!), randonnée
 - Point de croix, broderie, dessin digital
