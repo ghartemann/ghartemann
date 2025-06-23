@@ -2,14 +2,14 @@
 
 ### Développeur fullstack Vue.js / PHP Symfony
 #### Montréal, QC, Canada
-g.hartemann@gmail.com  |  (263)-384-2108  |  +33 6 68 44 89 36  
-ghartemann.fr  |  github.com/ghartemann  |  linkedin.com/in/ghartemann
+g.hartemann@gmail.com  |  (263)-384-2108  
+[ghartemann.fr](https://ghartemann.fr)  |  [github.com/ghartemann](https://github.com/ghartemann)  |  [linkedin.com/in/ghartemann](https://www.linkedin.com/in/ghartemann)
 
-Développeur web fullstack avec 3 années d'expérience en **PHP Symfony** et **Vue.js**, à l'aise avec l'intégration et le développement back-end. Maîtrise des bases de données avec PostgreSQL, et usage quotidien d'outils comme Docker, Kubernetes, Git et les API REST.
+Développeur web fullstack avec 3 années d'expérience en **PHP Symfony** et **Vue.js**, à l'aise avec l'intégration, le développement back-end et les APIs RESTful. Maîtrise des bases de données avec PostgreSQL, et usage quotidien d'outils comme Docker, Kubernetes et Git.
 Je conçois des applications performantes, maintenables et bien structurées, en alliant rigueur, souci du détail et collaboration étroite avec les équipes produit et design.
 
 
-## Compétences techniques
+## 🛠️ Compétences techniques
 
 **Langages :**  
 JavaScript, TypeScript, PHP, Python  
@@ -36,7 +36,7 @@ Responsive design, accessibilité, i18n
 Agile, Scrum  
 
 
-## Expériences professionnelles
+## 💼 Expériences professionnelles
 
 ##### 2024-2025  |  Développeur expérimenté – Valority – Lyon, France
 - Encadrement technique de 3 développeurs : accompagnement, revues de code, montée en compétence.
@@ -66,13 +66,13 @@ Agile, Scrum
 ##### 2017-2021  |  Chargé de Maîtrise d'Œuvre Urbaine et Sociale – Eohs – Lyon, France
 
 
-## Formation
+## 🎓 Formation
 
 ##### 2022  |  Titre Développeur web fullstack (équivalent bachelor) – Wild Code School – Lyon, France
 ##### 2012-2017  |  Master 2 (Maîtrise) Sociologie (Recherche) – Université Lumière Lyon 2 / École Normale Supérieure – Lyon, France
 
 
-## Projets personnels
+## 🧪 Projets personnels
 
 >##### [ghartemann.fr](https://ghartemann.fr)
 >Site personnel et portfolio
@@ -81,16 +81,16 @@ Agile, Scrum
 >Puissant simulateur de pouvoir d'achat visant à mettre en avant les inégalités de revenus.
 
 >##### Banana Survivors (2025, WIP) | [banana-survivors.ghartemann.fr](https://banana-survivors.ghartemann.fr)
->Jeu web de type Vampire Survivors, développé en JS (framework Phaser + Vue.js).
+>Jeu web de type Vampire Survivors se tenant dans le Banana Connected Universe (BCU), développé en JS (framework Phaser + Vue.js).
 
 >##### Banana Clicker (2022) | [bananaclicker.ghartemann.fr](https://bananaclicker.ghartemann.fr)
 >Jeu web de type Cookie Clicker, développé en JS (sans framework).
 
 >##### SymVue | [symvue.ghartemann.fr](https://symvue.ghartemann.fr)
->Boilerplate Vue.js/Symfony/Tailwind prêt à l'emploi pour créer des projets rapidement.
+>Boilerplate Vue.js / Symfony / Tailwind prêt à l'emploi pour créer des projets rapidement.
 
 
-## Soft skills et qualités
+## 🤝 Soft skills et qualités
 
 - Autonomie, rigueur, curiosité technique  
 - Aisance relationnelle (expérience en MOUS / coordination)  
@@ -98,13 +98,13 @@ Agile, Scrum
 - Goût pour les projets utiles et créatifs  
 
 
-## Langues
+## 🌍 Langues
 
 - Français : Natif
 - Anglais : C1
 
 
-## Centres d’intérêt
+## 🎮 Centres d’intérêt
 
 - Jeu vidéo — pratique et développement
 - Synthétiseurs, composition musicale

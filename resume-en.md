@@ -2,8 +2,9 @@
 
 ### Fullstack Developer – Vue.js / PHP Symfony  
 #### Montréal, QC, Canada  
+
 g.hartemann@gmail.com  |  (263)-384-2108  
-[ghartemann.fr](https://ghartemann.fr)  |  [github.com/ghartemann](https://github.com/ghartemann)  |  [linkedin.com/in/ghartemann](https://www.linkedin.com/in/ghartemann)
+[ghartemann.fr](https://ghartemann.fr)  |  [github.com/ghartemann](https://github.com/ghartemann)  |  [linkedin.com/in/ghartemann](https://www.linkedin.com/in/ghartemann)  
 
 Fullstack web developer with 3 years of experience in **PHP Symfony** and **Vue.js**, comfortable with integration, back-end development and RESTful APIs. Proficient in PostgreSQL, and daily user of tools like Docker, Kubernetes, and Git.  
 I design high-performance, maintainable, and well-structured applications by combining technical rigor, attention to detail, and close collaboration with product and design teams.
@@ -12,28 +13,28 @@ I design high-performance, maintainable, and well-structured applications by com
 ## 🛠️ Technical Skills
 
 **Languages:**  
-JavaScript, TypeScript, PHP, Python
+JavaScript, TypeScript, PHP, Python  
 
 **Frameworks & Libraries:**  
-Vue.js, Symfony, Laravel, Node.js, Svelte, Phaser, Tailwind CSS, Bootstrap, Vuetify, Quasar, Nuxt UI
+Vue.js, Symfony, Laravel, Node.js, Svelte, Phaser, Tailwind CSS, Bootstrap, Vuetify, Quasar, Nuxt UI  
 
 **Testing & Code Quality:**  
-PHPUnit, Vitest, TDD, unit testing, code review, automated CI
+PHPUnit, Vitest, TDD, unit testing, code review, automated CI  
 
 **Databases:**  
-PostgreSQL, MySQL, MariaDB
+PostgreSQL, MySQL, MariaDB  
 
 **DevOps & Tools:**  
-Docker, Kubernetes, Git, GitHub CI, Jenkins, CI/CD, Webpack, Vite, JWT, RESTful APIs
+Docker, Kubernetes, Git, GitHub CI, Jenkins, CI/CD, Webpack, Vite, JWT, RESTful APIs  
 
 **Environment & Collaboration:**  
-Linux, Azure, JetBrains suite, Figma, Zeplin
+Linux, Azure, JetBrains suite, Figma, Zeplin  
 
 **Design & Accessibility:**  
-Responsive design, accessibility (a11y), i18n
+Responsive design, accessibility (a11y), i18n  
 
 **Methodologies:**  
-Agile, Scrum
+Agile, Scrum  
 
 
 ## 💼 Work Experience
@@ -81,13 +82,13 @@ Agile, Scrum
 >Interactive purchasing power simulator highlighting income inequality  
 
 >##### Banana Survivors (2025, WIP) | [banana-survivors.ghartemann.fr](https://banana-survivors.ghartemann.fr)  
->Vampire Survivors–style web game developed with JS (Phaser + Vue.js)
+>Vampire Survivors–style web game taking place into the Banana Connected Universe (BCU), developed with JS (Phaser + Vue.js)
 
 >##### Banana Clicker (2022) | [bananaclicker.ghartemann.fr](https://bananaclicker.ghartemann.fr)  
 >Cookie Clicker–style browser game made in vanilla JavaScript
 
 >##### SymVue | [symvue.ghartemann.fr](https://symvue.ghartemann.fr)  
->Vue.js/Symfony/Tailwind boilerplate for fast project scaffolding
+>Vue.js / Symfony / Tailwind boilerplate for fast project scaffolding
 
 
 ## 🤝 Soft Skills
