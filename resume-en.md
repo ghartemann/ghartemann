@@ -1,113 +1,65 @@
 # Guillaume HARTEMANN-PIOLLET
+#### Fullstack developer in Montreal, QC, Canada
+(263)-384-2108  |  g.hartemann@gmail.com  
+[ghartemann.fr](https://ghartemann.fr)  |  [github.com/ghartemann](https://github.com/ghartemann)  |  [linkedin.com/in/ghartemann](https://www.linkedin.com/in/ghartemann)
 
-### Fullstack Developer – Vue.js / PHP Symfony  
-#### Montréal, QC, Canada  
+Fullstack web developer with 3 years of experience in PHP Symfony and Vue.js, I have contributed to the development of complex applications, leading a team of three developers. Comfortable from frontend integration to back end, I design high-performance, maintainable, and well-structured applications by combining rigor, attention to detail, and close collaboration with product and design teams. I am proficient with PostgreSQL databases and RESTful APIs, and I work daily with Docker, Kubernetes, Jenkins, and Git.
 
-g.hartemann@gmail.com  |  (263)-384-2108  
-[ghartemann.fr](https://ghartemann.fr)  |  [github.com/ghartemann](https://github.com/ghartemann)  |  [linkedin.com/in/ghartemann](https://www.linkedin.com/in/ghartemann)  
-
-Fullstack web developer with 3 years of experience in **PHP Symfony** and **Vue.js**, comfortable with integration, back-end development and RESTful APIs. Proficient in PostgreSQL, and daily user of tools like Docker, Kubernetes, and Git.  
-I design high-performance, maintainable, and well-structured applications by combining technical rigor, attention to detail, and close collaboration with product and design teams.
+Current project: [trickledown.js](https://trickledown.ghartemann.fr), a purchasing power simulator
 
 
-## 🛠️ Technical Skills
+## Experience
 
-**Languages:**  
-JavaScript, TypeScript, PHP, Python  
+>##### 2022-2025  |  Fullstack Developer / Senior Fullstack Developer – Com & Company, Valority – Lyon, France
+>*Vue.js 2-3  |  Nuxt 2-3  |  PHP 5-8  |  Symfony 5-7  |  Quasar, Vuetify, TailwindCSS  |  PostgreSQL, MySQL, MariaDB*
+>- **Responsible for the development and maintenance of 6 real-estate applications (B2B and B2C):** requirements gathering, planning, and feature development.
+>- **Redesign and optimization of a 50k-user client portal,** creation of a messaging system (API and connection to 5 internal apps), management of the electronic contract-signature application (4k signatures/year).
+>- **Technical mentoring of developers:** guidance, code reviews, upskilling.
+>- **Performance optimization and maintenance,** rollout of best practices (tests, CI/CD, documentation), technical support and user assistance.
 
-**Frameworks & Libraries:**  
-Vue.js, Symfony, Laravel, Node.js, Svelte, Phaser, Tailwind CSS, Bootstrap, Vuetify, Quasar, Nuxt UI  
+>- **Development and maintenance of business web apps:** Maslow.immo, a rental investment application (B2C) with sales funnel, client portal, back office for case management, sales dashboard and KPI analysis.
+>- **Feature implementation** in collaboration with Product Owners, the webmarketing team, and subject-matter experts, within an Agile project framework.
+>- Application performance and security improvements, redesign of the internal trombinoscope app (800 users) with Azure authentication implementation.
 
-**Testing & Code Quality:**  
-PHPUnit, Vitest, TDD, unit testing, code review, automated CI  
+>##### 2022  |  Fullstack Web Developer (Bachelor’s equivalent) – Wild Code School – Lyon, France
+>*PHP 8  |  Symfony 6  |  React 17-18  |  Bootstrap, TailwindCSS  |  MySQL*
 
-**Databases:**  
-PostgreSQL, MySQL, MariaDB  
+>##### 2017-2021  |  Urban and Social Project Manager – Eohs – Lyon, France
 
-**DevOps & Tools:**  
-Docker, Kubernetes, Git, GitHub CI, Jenkins, CI/CD, Webpack, Vite, JWT, RESTful APIs  
+>##### 2012-2017  |  Master’s Degree in Sociology (Research) – Université Lumière Lyon 2 / École Normale Supérieure – Lyon, France
 
-**Environment & Collaboration:**  
-Linux, Azure, JetBrains suite, Figma, Zeplin  
+## Technical skills
 
-**Design & Accessibility:**  
-Responsive design, accessibility (a11y), i18n  
+**Languages:**  *JavaScript, TypeScript, PHP, Python*  
 
-**Methodologies:**  
-Agile, Scrum  
+**Frameworks & libraries:**  *Vue.js, Symfony, Laravel, Node.js, Svelte, Phaser, Tailwind CSS, Bootstrap, Vuetify, Quasar, Nuxt UI*  
 
+**Testing & quality:** *PHPUnit, Vitest, TDD, unit tests, code reviews, automated CI*  
 
-## 💼 Work Experience
+**Databases:** *PostgreSQL, MySQL, MariaDB*  
 
-##### 2024–2025  |  Senior Developer – Valority – Lyon, France  
-- Technical lead of a team of 3 developers: mentoring, code reviews, skill development  
-- Responsible for 6 applications  
-- Development: requirements gathering, planning, feature development  
-- Maintenance: user support and technical assistance  
-- Application refactoring, performance optimization  
-- Implementation of best practices (tests, CI/CD, documentation)  
-- Carried out tasks from the previous role (see below)
+**DevOps & tools:** *Docker, Kubernetes, Git, GitHub CI, Jenkins, CI/CD, Webpack, Vite, JWT, RESTful APIs*  
 
->###### Main projects  
->- **Espace Client Valority (redesign)** (PHP 8 / Symfony 7 / Vue 3 / Quasar): redesign of a platform used by 50k users, built-in messaging system (API and integration with 5 other internal apps), admin dashboard  
->- **Sign** (PHP 7 / Symfony 6 / Vue 2): internal electronic signature tool for all contracts across Valority (4k signatures/year)  
->- Projects continued from previous role  
+**Environment & collaboration:** *Linux, Azure, JetBrains suite, Figma, Zeplin*  
 
-##### 2022–2024  |  Web Developer – Valority – Lyon, France  
-- Development and maintenance of web apps using PHP Symfony / Vue.js / PostgreSQL  
-- Feature implementation in collaboration with Product Owner, Webmarketing, and business stakeholders  
-- Performance and security improvements across platforms  
-- Active participation in Agile ceremonies and coordination with development teams
+**Design & accessibility:** *Responsive design, accessibility (a11y), i18n*  
 
->###### Main projects  
->- **Maslow.immo** (PHP 8 / Symfony 7 / Vue 3): real estate investment platform with lead-generation flow and client dashboard, including back-office tools and statistics  
->- **Espace Client Valority (legacy)** (PHP 7 / Symfony 6 / Vue 2): support and maintenance for 50k users  
->- **E-Tromby** (PHP 8 / Symfony 7 / Vue 3): internal directory app redesign, with Azure authentication integration
-
-##### 2017–2021  |  Urban and Social Project Manager – Eohs – Lyon, France
+**Methodologies:** *Agile, Scrum*  
 
 
-## 🎓 Education
+## Soft skills and qualities
 
-##### 2022  |  Fullstack Web Developer Diploma (equivalent to Bachelor's) – Wild Code School – Lyon, France  
-##### 2012–2017  |  Master’s Degree in Sociology (Research) – Université Lumière Lyon 2 / École Normale Supérieure – Lyon, France
-
-
-## 🧪 Personal Projects
-
->##### [ghartemann.fr](https://ghartemann.fr)  
->Personal website and portfolio  
-
->##### TrickleDown.js (2025) | [trickledown.ghartemann.fr](https://trickledown.ghartemann.fr)  
->Interactive purchasing power simulator highlighting income inequality  
-
->##### Banana Survivors (2025, WIP) | [banana-survivors.ghartemann.fr](https://banana-survivors.ghartemann.fr)  
->Vampire Survivors–style web game taking place into the Banana Connected Universe (BCU), developed with JS (Phaser + Vue.js)
-
->##### Banana Clicker (2022) | [bananaclicker.ghartemann.fr](https://bananaclicker.ghartemann.fr)  
->Cookie Clicker–style browser game made in vanilla JavaScript
-
->##### SymVue | [symvue.ghartemann.fr](https://symvue.ghartemann.fr)  
->Vue.js / Symfony / Tailwind boilerplate for fast project scaffolding
+- Autonomy, rigor, and technical curiosity
+- Strong interpersonal skills and team coordination
+- Ability to explain clearly and document
+- Creativity and problem solving
+- Native French, English C1
 
 
-## 🤝 Soft Skills
+## Interests
 
-- Autonomy, rigor, technical curiosity  
-- Strong interpersonal skills (MOUS / coordination experience)  
-- Ability to explain and document clearly  
-- Passion for meaningful and creative projects
-
-
-## 🌍 Languages
-
-- French: Native  
-- English: C1
-
-
-## 🎮 Interests
-
-- Video games — playing and development  
-- Synthesizers, music composition  
-- Cycling (Tour de l’Île 2025!!), hiking  
+- Video games — playing and development (recently, banana-survivors.ghartemann.fr)
+- Web development, personal projects
+- DAW-based music production, composition: ghartemann.fr/nkultra
+- Cycling, hiking
 - Cross-stitching, embroidery, digital drawing
