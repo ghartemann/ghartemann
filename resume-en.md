@@ -10,7 +10,7 @@ Current project: [trickledown.js](https://trickledown.ghartemann.fr), a purchasi
 
 ## Experience
 
->##### 2025-2026  |  Co-founder, Full-Stack Web Developer – Mésanges Studio – Montréal, QC, Canada
+>##### Depuis 2025  |  Co-founder, Full-Stack Web Developer – Mésanges Studio – Montréal, QC, Canada
 >*Vue.js 3  |  Nuxt 4  |  PHP 8  |  Symfony 8  |  TailwindCSS, Nuxt UI  |  PostgreSQL*
 
 >##### 2025  |  Full-Stack Web Developer – Burdig – Montréal, QC, Canada
