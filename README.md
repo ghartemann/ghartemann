@@ -2,13 +2,13 @@
 
 **Full-Stack Web Developer** based in Montréal, QC 🍁
 
-I've been crafting web experiences for four years.
+I've been crafting web experiences for four (!) years.
 
 ## 🛠 Tech Stack
 
 **Current favorites:**
-- **Frontend:** Vue.js – reactive, intuitive interfaces
-- **Backend:** Symfony – robust PHP applications
+- **Frontend:** Vue.js, Nuxt 4 – reactive, intuitive interfaces, SSR
+- **Backend:** Symfony 8 – robust PHP applications
 
 ## 💼 What I Do
 

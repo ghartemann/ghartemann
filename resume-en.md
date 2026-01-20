@@ -3,14 +3,20 @@
 (263)-384-2108  |  g.hartemann@gmail.com  
 [ghartemann.fr](https://ghartemann.fr)  |  [github.com/ghartemann](https://github.com/ghartemann)  |  [linkedin.com/in/ghartemann](https://www.linkedin.com/in/ghartemann)
 
-Fullstack web developer with 3 years of experience in PHP Symfony and Vue.js, I have contributed to the development of complex applications, leading a team of three developers. Comfortable from frontend integration to back end, I design high-performance, maintainable, and well-structured applications by combining rigor, attention to detail, and close collaboration with product and design teams. I am proficient with PostgreSQL databases and RESTful APIs, and I work daily with Docker, Kubernetes, Jenkins, and Git.
+Full-Stack Web Developer with 4 years of experience, I have contributed to the development of complex applications, leading a team of three developers. Comfortable from frontend integration to back end, I design high-performance, maintainable, and well-structured applications by combining rigor, attention to detail, and close collaboration with product and design teams. I am proficient with PostgreSQL databases and RESTful APIs, and I work daily with Docker, Kubernetes, Jenkins, and Git.
 
 Current project: [trickledown.js](https://trickledown.ghartemann.fr), a purchasing power simulator
 
 
 ## Experience
 
->##### 2022-2025  |  Fullstack Developer / Senior Fullstack Developer – Com & Company, Valority – Lyon, France
+>##### 2025-2026  |  Co-founder, Full-Stack Web Developer – Mésanges Studio – Montréal, QC, Canada
+>*Vue.js 3  |  Nuxt 4  |  PHP 8  |  Symfony 8  |  TailwindCSS, Nuxt UI  |  PostgreSQL*
+
+>##### 2025  |  Full-Stack Web Developer – Burdig – Montréal, QC, Canada
+>*Vue.js 3  |  Nuxt 4  |  PHP 8  |  Symfony 8  |  C#  |  Python  |  Azure AI Search  |  TailwindCSS, Nuxt UI  |  PostgreSQL*
+
+>##### 2022-2025  |  Full-Stack Web Developer / Senior Fullstack Web Developer – Com & Company, Valority – Lyon, France
 >*Vue.js 2-3  |  Nuxt 2-3  |  PHP 5-8  |  Symfony 5-7  |  Quasar, Vuetify, TailwindCSS  |  PostgreSQL, MySQL, MariaDB*
 >- **Responsible for the development and maintenance of 6 real-estate applications (B2B and B2C):** requirements gathering, planning, and feature development.
 >- **Redesign and optimization of a 50k-user client portal,** creation of a messaging system (API and connection to 5 internal apps), management of the electronic contract-signature application (4k signatures/year).
@@ -30,9 +36,9 @@ Current project: [trickledown.js](https://trickledown.ghartemann.fr), a purchasi
 
 ## Technical skills
 
-**Languages:**  *JavaScript, TypeScript, PHP, Python*  
+**Languages:**  *JavaScript, TypeScript, PHP, Python, C#*  
 
-**Frameworks & libraries:**  *Vue.js, Symfony, Laravel, Node.js, Svelte, Phaser, Tailwind CSS, Bootstrap, Vuetify, Quasar, Nuxt UI*  
+**Frameworks & libraries:**  *Vue.js, Symfony, Laravel, Node.js, Svelte, Phaser, Tailwind CSS, Bootstrap, Nuxt UI, Vuetify, Quasar*  
 
 **Testing & quality:** *PHPUnit, Vitest, TDD, unit tests, code reviews, automated CI*  
 
@@ -62,4 +68,4 @@ Current project: [trickledown.js](https://trickledown.ghartemann.fr), a purchasi
 - Web development, personal projects
 - DAW-based music production, composition: ghartemann.fr/nkultra
 - Cycling, hiking
-- Cross-stitching, embroidery, digital drawing
+- Cross-stitching, embroidery, sewing, digital drawing

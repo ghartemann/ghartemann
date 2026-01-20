@@ -3,12 +3,18 @@
 (263)-384-2108  |  g.hartemann@gmail.com  
 [ghartemann.fr](https://ghartemann.fr)  |  [github.com/ghartemann](https://github.com/ghartemann)  |  [linkedin.com/in/ghartemann](https://www.linkedin.com/in/ghartemann)
 
-Développeur web fullstack avec 3 ans d’expérience en PHP Symfony et Vue.js, j’ai contribué au développement d’applications complexes, à la tête d’une équipe de trois développeurs. À l’aise de l’intégration front au back-end, je conçois des applications performantes, maintenables et bien structurées, en alliant rigueur, souci du détail et collaboration étroite avec les équipes produit et design. Je maîtrise les bases de données PostgreSQL, les APIs RESTful, et travaille au quotidien avec Docker, Kubernetes, Jenkins et Git.
+Développeur web fullstack avec 4 ans d’expérience, j’ai contribué au développement d’applications complexes, à la tête d’une équipe de trois développeurs. À l’aise de l’intégration front au back-end, je conçois des applications performantes, maintenables et bien structurées, en alliant rigueur, souci du détail et collaboration étroite avec les équipes produit et design. Je maîtrise les bases de données PostgreSQL, les APIs RESTful, et travaille au quotidien avec Docker, Kubernetes, Jenkins et Git.
 
 Mon projet du moment : [trickledown.js](https://trickledown.ghartemann.fr), un simulateur de pouvoir d'achat
 
 
 ## Expérience
+
+>##### 2025-2026  |  Co-fondateur, Développeur fullstack – Mésanges Studio – Montréal, QC, Canada
+>*Vue.js 3  |  Nuxt 4  |  PHP 8  |  Symfony 8  |  TailwindCSS, Nuxt UI  |  PostgreSQL*
+
+>##### 2025  |  Développeur fullstack – Burdig – Montréal, QC, Canada
+>*Vue.js 3  |  Nuxt 4  |  PHP 8  |  Symfony 8  |  C#  |  Python  |  Azure AI Search  |  TailwindCSS, Nuxt UI  |  PostgreSQL*
 
 >##### 2022-2025  |  Développeur fullstack / Développeur fullstack expérimenté – Com & Company, Valority – Lyon, France
 >*Vue.js 2-3  |  Nuxt 2-3  |  PHP 5-8  |  Symfony 5-7  |  Quasar, Vuetify, TailwindCSS  |  PostgreSQL, MySQL, MariaDB*
@@ -30,9 +36,9 @@ Mon projet du moment : [trickledown.js](https://trickledown.ghartemann.fr), un s
 
 ## Compétences techniques
 
-**Langages :**  *JavaScript, TypeScript, PHP, Python*  
+**Langages :**  *JavaScript, TypeScript, PHP, Python, C#*  
 
-**Frameworks & bibliothèques :**  *Vue.js, Symfony, Laravel, Node.js, Svelte, Phaser, Tailwind CSS, Bootstrap, Vuetify, Quasar, Nuxt UI*  
+**Frameworks & bibliothèques :**  *Vue.js, Symfony, Laravel, Node.js, Svelte, Phaser, Tailwind CSS, Bootstrap, Nuxt UI, Vuetify, Quasar*  
 
 **Tests & qualité :** *PHPUnit, Vitest, TDD, tests unitaires, revues de code, CI automatisée*  
 
