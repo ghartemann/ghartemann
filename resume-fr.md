@@ -10,7 +10,7 @@ Mon projet du moment : [trickledown.js](https://trickledown.ghartemann.fr), un s
 
 ## Expérience
 
->##### 2025-2026  |  Co-fondateur, Développeur fullstack – Mésanges Studio – Montréal, QC, Canada
+>##### Depuis 2025  |  Co-fondateur, Développeur fullstack – Mésanges Studio – Montréal, QC, Canada
 >*Vue.js 3  |  Nuxt 4  |  PHP 8  |  Symfony 8  |  TailwindCSS, Nuxt UI  |  PostgreSQL*
 
 >##### 2025  |  Développeur fullstack – Burdig – Montréal, QC, Canada
@@ -68,4 +68,4 @@ Mon projet du moment : [trickledown.js](https://trickledown.ghartemann.fr), un s
 - Développement web, projets personnels
 - MAO, composition musicale : ghartemann.fr/nkultra
 - Vélo, randonnée
-- Point de croix, broderie, dessin digital
+- Point de croix, broderie, couture, dessin digital
