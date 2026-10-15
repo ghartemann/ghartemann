@@ -1,18 +1,17 @@
 # 👋 Hi, I'm Guillaume!
 
-**Full-Stack Web Developer** based in Montréal, QC 🍁
+**Full-Stack Web Developer** based in Lyon, France.
 
 I've been crafting web experiences for four (!) years.
 
 ## 🛠 Tech Stack
 
-**Current favorites:**
-- **Frontend:** Vue.js, Nuxt 4 – reactive, intuitive interfaces, SSR
-- **Backend:** Symfony 8 – robust PHP applications
+- **Frontend:** Vue.js 3, Nuxt 4, Svelte
+- **Backend:** Symfony 8, Nuxt Server, C#, Django
 
 ## 💼 What I Do
 
-I specialize in full-stack development, bringing together modern frontend experiences with solid backend architecture. Whether it's building dynamic SPAs, designing RESTful APIs, or optimizing database queries, I enjoy the challenge of creating cohesive solutions from end to end.
+I enjoy building fullstack applications, and I specifically enjoy working with Vue.js or other modern front-end frameworks.
 
 ## 🔗 Let's Connect
 
