@@ -12,7 +12,7 @@ I enjoy building fullstack applications, and I specifically enjoy working with V
 - **Backend:** Symfony 8, Nuxt Server, C#, Django
 
 ## ❤️ Favorite personal project
-[TrickleDown.js](https://trickledown.cloud) - [repository](https://github.com/ghartemann/trickledown)
+[TrickleDown.js](https://trickledown.cloud) - [repository](https://github.com/ghartemann/trickledown) —— Fun fact: it was built before AI!
 
 ## 🔗 Let's Connect
 
